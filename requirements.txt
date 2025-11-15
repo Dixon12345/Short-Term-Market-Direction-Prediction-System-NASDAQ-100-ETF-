@@ -1,0 +1,8 @@
+yfinance 
+pandas
+matplotlib 
+seaborn
+mplfinance
+scipy
+scikit-learn
+xgboost
