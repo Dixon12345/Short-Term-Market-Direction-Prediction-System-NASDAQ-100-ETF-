@@ -1,3 +1,6 @@
+# Short-Term Market Direction Prediction System (NASDAQ-100 ETF)
+Automated ML Pipeline for 5-Day Market Direction Forecasting (QQQ ETF)
+
 This project builds a machine learning system that predicts the next 5-day price direction of the NASDAQ-100 ETF (QQQ) using:
 
 Daily data from yfinance
@@ -24,14 +27,20 @@ Recent signal behavior (graph + streaks)
 
 🛠 Installation
 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+```bash
+git clone https://github.com/Dixon12345/Short-Term-Market-Direction-Prediction-System-NASDAQ-100-ETF-.git
+cd Short-Term-Market-Direction-Prediction-System-NASDAQ-100-ETF-
+```
 
 2. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 3. Run the Streamlit app
+```bash
 streamlit run streamlit_app/app.py
+```
 
 🎯 Summary
 
