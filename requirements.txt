@@ -6,3 +6,5 @@ mplfinance
 scipy
 scikit-learn
 xgboost
+optuna
+streamlit
