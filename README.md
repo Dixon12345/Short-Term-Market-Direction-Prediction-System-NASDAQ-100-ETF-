@@ -1,5 +1,7 @@
 # Short-Term Market Direction Prediction System (NASDAQ-100 ETF)
 Automated ML Pipeline for 5-Day Market Direction Forecasting (QQQ ETF)
+<img width="2816" height="1517" alt="image" src="https://github.com/user-attachments/assets/0fe407c4-0535-4fa0-a5ae-118c70f583e5" />
+
 
 This project builds a machine learning system that predicts the next 5-day price direction of the NASDAQ-100 ETF (QQQ) using:
 
@@ -24,6 +26,8 @@ Confidence interpretation
 Latest feature values
 
 Recent signal behavior (graph + streaks)
+
+
 
 🛠 Installation
 1. Clone the repository
